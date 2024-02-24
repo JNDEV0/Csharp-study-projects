@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\source\\repos\\c#Course\\Section30-newFeatures\\NewFeatures\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED541AB2-05D0-495B-8D0E-C98544D08CB7}|NewFeatures\\NewFeatures.csproj|e:\\source\\repos\\c#course\\section30-newfeatures\\newfeatures\\newfeatures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED541AB2-05D0-495B-8D0E-C98544D08CB7}|NewFeatures\\NewFeatures.csproj|solutionrelative:newfeatures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\source\\repos\\c#Course\\Section30-newFeatures\\NewFeatures\\NewFeatures\\Program.cs",
+              "RelativeDocumentMoniker": "NewFeatures\\Program.cs",
+              "ToolTip": "E:\\source\\repos\\c#Course\\Section30-newFeatures\\NewFeatures\\NewFeatures\\Program.cs",
+              "RelativeToolTip": "NewFeatures\\Program.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAIwF0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T22:41:24.953Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

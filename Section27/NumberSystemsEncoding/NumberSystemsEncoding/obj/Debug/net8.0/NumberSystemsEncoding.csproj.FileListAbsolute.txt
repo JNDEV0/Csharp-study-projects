@@ -1,0 +1,14 @@
+C:\Users\usuario\source\repos\c#Course\Section27\NumberSystemsEncoding\NumberSystemsEncoding\bin\Debug\net8.0\NumberSystemsEncoding.exe
+C:\Users\usuario\source\repos\c#Course\Section27\NumberSystemsEncoding\NumberSystemsEncoding\bin\Debug\net8.0\NumberSystemsEncoding.deps.json
+C:\Users\usuario\source\repos\c#Course\Section27\NumberSystemsEncoding\NumberSystemsEncoding\bin\Debug\net8.0\NumberSystemsEncoding.runtimeconfig.json
+C:\Users\usuario\source\repos\c#Course\Section27\NumberSystemsEncoding\NumberSystemsEncoding\bin\Debug\net8.0\NumberSystemsEncoding.dll
+C:\Users\usuario\source\repos\c#Course\Section27\NumberSystemsEncoding\NumberSystemsEncoding\bin\Debug\net8.0\NumberSystemsEncoding.pdb
+C:\Users\usuario\source\repos\c#Course\Section27\NumberSystemsEncoding\NumberSystemsEncoding\obj\Debug\net8.0\NumberSystemsEncoding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\c#Course\Section27\NumberSystemsEncoding\NumberSystemsEncoding\obj\Debug\net8.0\NumberSystemsEncoding.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\c#Course\Section27\NumberSystemsEncoding\NumberSystemsEncoding\obj\Debug\net8.0\NumberSystemsEncoding.AssemblyInfo.cs
+C:\Users\usuario\source\repos\c#Course\Section27\NumberSystemsEncoding\NumberSystemsEncoding\obj\Debug\net8.0\NumberSystemsEncoding.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\c#Course\Section27\NumberSystemsEncoding\NumberSystemsEncoding\obj\Debug\net8.0\NumberSystemsEncoding.dll
+C:\Users\usuario\source\repos\c#Course\Section27\NumberSystemsEncoding\NumberSystemsEncoding\obj\Debug\net8.0\refint\NumberSystemsEncoding.dll
+C:\Users\usuario\source\repos\c#Course\Section27\NumberSystemsEncoding\NumberSystemsEncoding\obj\Debug\net8.0\NumberSystemsEncoding.pdb
+C:\Users\usuario\source\repos\c#Course\Section27\NumberSystemsEncoding\NumberSystemsEncoding\obj\Debug\net8.0\NumberSystemsEncoding.genruntimeconfig.cache
+C:\Users\usuario\source\repos\c#Course\Section27\NumberSystemsEncoding\NumberSystemsEncoding\obj\Debug\net8.0\ref\NumberSystemsEncoding.dll

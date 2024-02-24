@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\source\\repos\\c#Course\\Section28\\ExceptionHandling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAA1AB1D-BB04-4ECB-9FDC-AA1A58CC80EA}|ExceptionHandling.csproj|e:\\source\\repos\\c#course\\section28\\exceptionhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAA1AB1D-BB04-4ECB-9FDC-AA1A58CC80EA}|ExceptionHandling.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\source\\repos\\c#Course\\Section28\\ExceptionHandling\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\source\\repos\\c#Course\\Section28\\ExceptionHandling\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAKUAAAAAAAAAAAAcwLAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T21:02:30.322Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

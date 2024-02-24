@@ -1,0 +1,14 @@
+C:\Users\usuario\source\repos\c#Course\Section27\FileAndDirectory\FileAndDirectory\bin\Debug\net8.0\FileAndDirectory.exe
+C:\Users\usuario\source\repos\c#Course\Section27\FileAndDirectory\FileAndDirectory\bin\Debug\net8.0\FileAndDirectory.deps.json
+C:\Users\usuario\source\repos\c#Course\Section27\FileAndDirectory\FileAndDirectory\bin\Debug\net8.0\FileAndDirectory.runtimeconfig.json
+C:\Users\usuario\source\repos\c#Course\Section27\FileAndDirectory\FileAndDirectory\bin\Debug\net8.0\FileAndDirectory.dll
+C:\Users\usuario\source\repos\c#Course\Section27\FileAndDirectory\FileAndDirectory\bin\Debug\net8.0\FileAndDirectory.pdb
+C:\Users\usuario\source\repos\c#Course\Section27\FileAndDirectory\FileAndDirectory\obj\Debug\net8.0\FileAndDirectory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\c#Course\Section27\FileAndDirectory\FileAndDirectory\obj\Debug\net8.0\FileAndDirectory.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\c#Course\Section27\FileAndDirectory\FileAndDirectory\obj\Debug\net8.0\FileAndDirectory.AssemblyInfo.cs
+C:\Users\usuario\source\repos\c#Course\Section27\FileAndDirectory\FileAndDirectory\obj\Debug\net8.0\FileAndDirectory.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\c#Course\Section27\FileAndDirectory\FileAndDirectory\obj\Debug\net8.0\FileAndDirectory.dll
+C:\Users\usuario\source\repos\c#Course\Section27\FileAndDirectory\FileAndDirectory\obj\Debug\net8.0\refint\FileAndDirectory.dll
+C:\Users\usuario\source\repos\c#Course\Section27\FileAndDirectory\FileAndDirectory\obj\Debug\net8.0\FileAndDirectory.pdb
+C:\Users\usuario\source\repos\c#Course\Section27\FileAndDirectory\FileAndDirectory\obj\Debug\net8.0\FileAndDirectory.genruntimeconfig.cache
+C:\Users\usuario\source\repos\c#Course\Section27\FileAndDirectory\FileAndDirectory\obj\Debug\net8.0\ref\FileAndDirectory.dll

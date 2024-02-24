@@ -1,0 +1,15 @@
+C:\Users\Desktop\Desktop\c#Course\Section23\AnonymousTypesAndTuples\bin\Debug\net7.0\AnonymousTypesAndTuples.exe
+C:\Users\Desktop\Desktop\c#Course\Section23\AnonymousTypesAndTuples\bin\Debug\net7.0\AnonymousTypesAndTuples.deps.json
+C:\Users\Desktop\Desktop\c#Course\Section23\AnonymousTypesAndTuples\bin\Debug\net7.0\AnonymousTypesAndTuples.runtimeconfig.json
+C:\Users\Desktop\Desktop\c#Course\Section23\AnonymousTypesAndTuples\bin\Debug\net7.0\AnonymousTypesAndTuples.dll
+C:\Users\Desktop\Desktop\c#Course\Section23\AnonymousTypesAndTuples\bin\Debug\net7.0\AnonymousTypesAndTuples.pdb
+C:\Users\Desktop\Desktop\c#Course\Section23\AnonymousTypesAndTuples\obj\Debug\net7.0\AnonymousTypesAndTuples.csproj.AssemblyReference.cache
+C:\Users\Desktop\Desktop\c#Course\Section23\AnonymousTypesAndTuples\obj\Debug\net7.0\AnonymousTypesAndTuples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\Desktop\c#Course\Section23\AnonymousTypesAndTuples\obj\Debug\net7.0\AnonymousTypesAndTuples.AssemblyInfoInputs.cache
+C:\Users\Desktop\Desktop\c#Course\Section23\AnonymousTypesAndTuples\obj\Debug\net7.0\AnonymousTypesAndTuples.AssemblyInfo.cs
+C:\Users\Desktop\Desktop\c#Course\Section23\AnonymousTypesAndTuples\obj\Debug\net7.0\AnonymousTypesAndTuples.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\Desktop\c#Course\Section23\AnonymousTypesAndTuples\obj\Debug\net7.0\AnonymousTypesAndTuples.dll
+C:\Users\Desktop\Desktop\c#Course\Section23\AnonymousTypesAndTuples\obj\Debug\net7.0\refint\AnonymousTypesAndTuples.dll
+C:\Users\Desktop\Desktop\c#Course\Section23\AnonymousTypesAndTuples\obj\Debug\net7.0\AnonymousTypesAndTuples.pdb
+C:\Users\Desktop\Desktop\c#Course\Section23\AnonymousTypesAndTuples\obj\Debug\net7.0\AnonymousTypesAndTuples.genruntimeconfig.cache
+C:\Users\Desktop\Desktop\c#Course\Section23\AnonymousTypesAndTuples\obj\Debug\net7.0\ref\AnonymousTypesAndTuples.dll

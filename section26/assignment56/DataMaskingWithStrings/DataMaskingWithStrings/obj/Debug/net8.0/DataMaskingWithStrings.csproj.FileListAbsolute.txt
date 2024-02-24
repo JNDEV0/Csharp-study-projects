@@ -1,0 +1,14 @@
+C:\Users\usuario\source\repos\c#Course\section26\assignment56\DataMaskingWithStrings\DataMaskingWithStrings\bin\Debug\net8.0\DataMaskingWithStrings.exe
+C:\Users\usuario\source\repos\c#Course\section26\assignment56\DataMaskingWithStrings\DataMaskingWithStrings\bin\Debug\net8.0\DataMaskingWithStrings.deps.json
+C:\Users\usuario\source\repos\c#Course\section26\assignment56\DataMaskingWithStrings\DataMaskingWithStrings\bin\Debug\net8.0\DataMaskingWithStrings.runtimeconfig.json
+C:\Users\usuario\source\repos\c#Course\section26\assignment56\DataMaskingWithStrings\DataMaskingWithStrings\bin\Debug\net8.0\DataMaskingWithStrings.dll
+C:\Users\usuario\source\repos\c#Course\section26\assignment56\DataMaskingWithStrings\DataMaskingWithStrings\bin\Debug\net8.0\DataMaskingWithStrings.pdb
+C:\Users\usuario\source\repos\c#Course\section26\assignment56\DataMaskingWithStrings\DataMaskingWithStrings\obj\Debug\net8.0\DataMaskingWithStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\c#Course\section26\assignment56\DataMaskingWithStrings\DataMaskingWithStrings\obj\Debug\net8.0\DataMaskingWithStrings.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\c#Course\section26\assignment56\DataMaskingWithStrings\DataMaskingWithStrings\obj\Debug\net8.0\DataMaskingWithStrings.AssemblyInfo.cs
+C:\Users\usuario\source\repos\c#Course\section26\assignment56\DataMaskingWithStrings\DataMaskingWithStrings\obj\Debug\net8.0\DataMaskingWithStrings.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\c#Course\section26\assignment56\DataMaskingWithStrings\DataMaskingWithStrings\obj\Debug\net8.0\DataMaskingWithStrings.dll
+C:\Users\usuario\source\repos\c#Course\section26\assignment56\DataMaskingWithStrings\DataMaskingWithStrings\obj\Debug\net8.0\refint\DataMaskingWithStrings.dll
+C:\Users\usuario\source\repos\c#Course\section26\assignment56\DataMaskingWithStrings\DataMaskingWithStrings\obj\Debug\net8.0\DataMaskingWithStrings.pdb
+C:\Users\usuario\source\repos\c#Course\section26\assignment56\DataMaskingWithStrings\DataMaskingWithStrings\obj\Debug\net8.0\DataMaskingWithStrings.genruntimeconfig.cache
+C:\Users\usuario\source\repos\c#Course\section26\assignment56\DataMaskingWithStrings\DataMaskingWithStrings\obj\Debug\net8.0\ref\DataMaskingWithStrings.dll

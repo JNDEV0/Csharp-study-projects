@@ -1,0 +1,14 @@
+C:\Users\usuario\source\repos\c#Course\section26\String,DateTime,Math\StringDateTimeMathPactrice\StringDateTimeMathPactrice\bin\Debug\net8.0\StringDateTimeMathPactrice.exe
+C:\Users\usuario\source\repos\c#Course\section26\String,DateTime,Math\StringDateTimeMathPactrice\StringDateTimeMathPactrice\bin\Debug\net8.0\StringDateTimeMathPactrice.deps.json
+C:\Users\usuario\source\repos\c#Course\section26\String,DateTime,Math\StringDateTimeMathPactrice\StringDateTimeMathPactrice\bin\Debug\net8.0\StringDateTimeMathPactrice.runtimeconfig.json
+C:\Users\usuario\source\repos\c#Course\section26\String,DateTime,Math\StringDateTimeMathPactrice\StringDateTimeMathPactrice\bin\Debug\net8.0\StringDateTimeMathPactrice.dll
+C:\Users\usuario\source\repos\c#Course\section26\String,DateTime,Math\StringDateTimeMathPactrice\StringDateTimeMathPactrice\bin\Debug\net8.0\StringDateTimeMathPactrice.pdb
+C:\Users\usuario\source\repos\c#Course\section26\String,DateTime,Math\StringDateTimeMathPactrice\StringDateTimeMathPactrice\obj\Debug\net8.0\StringDateTimeMathPactrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\c#Course\section26\String,DateTime,Math\StringDateTimeMathPactrice\StringDateTimeMathPactrice\obj\Debug\net8.0\StringDateTimeMathPactrice.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\c#Course\section26\String,DateTime,Math\StringDateTimeMathPactrice\StringDateTimeMathPactrice\obj\Debug\net8.0\StringDateTimeMathPactrice.AssemblyInfo.cs
+C:\Users\usuario\source\repos\c#Course\section26\String,DateTime,Math\StringDateTimeMathPactrice\StringDateTimeMathPactrice\obj\Debug\net8.0\StringDateTimeMathPactrice.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\c#Course\section26\String,DateTime,Math\StringDateTimeMathPactrice\StringDateTimeMathPactrice\obj\Debug\net8.0\StringDateTimeMathPactrice.dll
+C:\Users\usuario\source\repos\c#Course\section26\String,DateTime,Math\StringDateTimeMathPactrice\StringDateTimeMathPactrice\obj\Debug\net8.0\refint\StringDateTimeMathPactrice.dll
+C:\Users\usuario\source\repos\c#Course\section26\String,DateTime,Math\StringDateTimeMathPactrice\StringDateTimeMathPactrice\obj\Debug\net8.0\StringDateTimeMathPactrice.pdb
+C:\Users\usuario\source\repos\c#Course\section26\String,DateTime,Math\StringDateTimeMathPactrice\StringDateTimeMathPactrice\obj\Debug\net8.0\StringDateTimeMathPactrice.genruntimeconfig.cache
+C:\Users\usuario\source\repos\c#Course\section26\String,DateTime,Math\StringDateTimeMathPactrice\StringDateTimeMathPactrice\obj\Debug\net8.0\ref\StringDateTimeMathPactrice.dll

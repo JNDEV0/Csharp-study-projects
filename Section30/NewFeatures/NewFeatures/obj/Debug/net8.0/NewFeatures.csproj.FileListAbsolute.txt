@@ -1,0 +1,14 @@
+E:\source\repos\c#Course\Section30-newFeatures\NewFeatures\NewFeatures\bin\Debug\net8.0\NewFeatures.exe
+E:\source\repos\c#Course\Section30-newFeatures\NewFeatures\NewFeatures\bin\Debug\net8.0\NewFeatures.deps.json
+E:\source\repos\c#Course\Section30-newFeatures\NewFeatures\NewFeatures\bin\Debug\net8.0\NewFeatures.runtimeconfig.json
+E:\source\repos\c#Course\Section30-newFeatures\NewFeatures\NewFeatures\bin\Debug\net8.0\NewFeatures.dll
+E:\source\repos\c#Course\Section30-newFeatures\NewFeatures\NewFeatures\bin\Debug\net8.0\NewFeatures.pdb
+E:\source\repos\c#Course\Section30-newFeatures\NewFeatures\NewFeatures\obj\Debug\net8.0\NewFeatures.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\repos\c#Course\Section30-newFeatures\NewFeatures\NewFeatures\obj\Debug\net8.0\NewFeatures.AssemblyInfoInputs.cache
+E:\source\repos\c#Course\Section30-newFeatures\NewFeatures\NewFeatures\obj\Debug\net8.0\NewFeatures.AssemblyInfo.cs
+E:\source\repos\c#Course\Section30-newFeatures\NewFeatures\NewFeatures\obj\Debug\net8.0\NewFeatures.csproj.CoreCompileInputs.cache
+E:\source\repos\c#Course\Section30-newFeatures\NewFeatures\NewFeatures\obj\Debug\net8.0\NewFeatures.dll
+E:\source\repos\c#Course\Section30-newFeatures\NewFeatures\NewFeatures\obj\Debug\net8.0\refint\NewFeatures.dll
+E:\source\repos\c#Course\Section30-newFeatures\NewFeatures\NewFeatures\obj\Debug\net8.0\NewFeatures.pdb
+E:\source\repos\c#Course\Section30-newFeatures\NewFeatures\NewFeatures\obj\Debug\net8.0\NewFeatures.genruntimeconfig.cache
+E:\source\repos\c#Course\Section30-newFeatures\NewFeatures\NewFeatures\obj\Debug\net8.0\ref\NewFeatures.dll

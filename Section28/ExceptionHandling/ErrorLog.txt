@@ -1,0 +1,10 @@
+[2/25/2024 9:13:09 PM] - ExceptionHandling.InvalidFormatException - Invalid AccountHolderName format $34Sm1th, must be uppercase and lowercase letters only. 
+    at ExceptionHandling.BankAccount.set_AccountHolderName(String value) in E:\source\repos\c#Course\Section28\ExceptionHandling\Program.cs:line 406
+   at ExceptionHandling.Program.Logger() in E:\source\repos\c#Course\Section28\ExceptionHandling\Program.cs:line 373 
+---
+[2/25/2024 9:13:56 PM]
+ExceptionHandling.InvalidFormatException
+Invalid AccountHolderName format $34Sm1th, must be uppercase and lowercase letters only.
+   at ExceptionHandling.BankAccount.set_AccountHolderName(String value) in E:\source\repos\c#Course\Section28\ExceptionHandling\Program.cs:line 406
+   at ExceptionHandling.Program.Logger() in E:\source\repos\c#Course\Section28\ExceptionHandling\Program.cs:line 373
+---

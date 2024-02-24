@@ -1,0 +1,14 @@
+C:\Users\usuario\source\repos\c#Course\Section25\LinqTask\LinqTask\LinqTask\bin\Debug\net8.0\LinqTask.exe
+C:\Users\usuario\source\repos\c#Course\Section25\LinqTask\LinqTask\LinqTask\bin\Debug\net8.0\LinqTask.deps.json
+C:\Users\usuario\source\repos\c#Course\Section25\LinqTask\LinqTask\LinqTask\bin\Debug\net8.0\LinqTask.runtimeconfig.json
+C:\Users\usuario\source\repos\c#Course\Section25\LinqTask\LinqTask\LinqTask\bin\Debug\net8.0\LinqTask.dll
+C:\Users\usuario\source\repos\c#Course\Section25\LinqTask\LinqTask\LinqTask\bin\Debug\net8.0\LinqTask.pdb
+C:\Users\usuario\source\repos\c#Course\Section25\LinqTask\LinqTask\LinqTask\obj\Debug\net8.0\LinqTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\c#Course\Section25\LinqTask\LinqTask\LinqTask\obj\Debug\net8.0\LinqTask.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\c#Course\Section25\LinqTask\LinqTask\LinqTask\obj\Debug\net8.0\LinqTask.AssemblyInfo.cs
+C:\Users\usuario\source\repos\c#Course\Section25\LinqTask\LinqTask\LinqTask\obj\Debug\net8.0\LinqTask.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\c#Course\Section25\LinqTask\LinqTask\LinqTask\obj\Debug\net8.0\LinqTask.dll
+C:\Users\usuario\source\repos\c#Course\Section25\LinqTask\LinqTask\LinqTask\obj\Debug\net8.0\refint\LinqTask.dll
+C:\Users\usuario\source\repos\c#Course\Section25\LinqTask\LinqTask\LinqTask\obj\Debug\net8.0\LinqTask.pdb
+C:\Users\usuario\source\repos\c#Course\Section25\LinqTask\LinqTask\LinqTask\obj\Debug\net8.0\LinqTask.genruntimeconfig.cache
+C:\Users\usuario\source\repos\c#Course\Section25\LinqTask\LinqTask\LinqTask\obj\Debug\net8.0\ref\LinqTask.dll
